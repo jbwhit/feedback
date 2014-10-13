@@ -1,14 +1,15 @@
 # jbwhit/feedback
 
 This is a quick little ask-me-anything type of repository. 
-It is forked from [@holman's feedback repo](https://github.com/holman/feedback) and [@mdo's feedback repos](https://github.com/mdo/feedback/).
+It is forked from [@holman's feedback repo](https://github.com/holman/feedback) and [@mdo's feedback repos](https://github.com/mdo/feedback/). 
+I've left the words below that also apply to how I'm going to run this repo. 
 
 
 ---
 
 ### Ask a question
 
-Asking a question is as easy as
+Ask a question by 
 [creating a new issue](https://github.com/jbwhit/feedback/issues/new) on this
 project.
 
@@ -30,7 +31,6 @@ into some of the older threads.
 
 ### Twitter
 
-If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. 
+If you have something quick and easy, just ping me on Twitter. 
 I'm [@jbwhitmore](https://twitter.com/jbwhitmore) on
 Twitter.
